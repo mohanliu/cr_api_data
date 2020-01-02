@@ -9,4 +9,5 @@
 
 
 ## Important Doc
-Read [this](https://readthedocs.org/projects/clashroyale/downloads/pdf/latest/)
+- PDF: Read [this](https://readthedocs.org/projects/clashroyale/downloads/pdf/latest/)
+- Royale API: https://docs.royaleapi.com/
